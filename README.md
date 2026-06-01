@@ -20,4 +20,4 @@
 </div>
 
 
-![Snake Animation](https://github.com/DominguesDaniel/DominguesDaniel/blob/output/github-contribution-grid-snake2.svg)
+![Snake Animation](https://github.com/DominguesDaniel/DominguesDaniel/raw/output/github-contribution-grid-snake2.svg)
